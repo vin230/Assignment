@@ -19,7 +19,6 @@ const HelloWorldApp = () => {
       style={{
         flex: 1,
         justifyContent: "center",
-        //alignItems: "center"
       }}>
       <FlatList
         data={DATA}
